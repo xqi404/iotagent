@@ -1,1 +1,6 @@
-# An agent to product poc on iot device
+# env
+## conda create -n iotagent python=3.10
+## binwalk
+## static(mango/satc)
+## firmae
+## run.py
